@@ -257,7 +257,7 @@ DIVIDE(AGRICULTURE[RAINFALL],3.5,BLANK())
 ![Dashboard_upload](https://github.com/rahulgowda2003/Agriculture-Analysis-Report/blob/main/Humidity%20Analysis%20Screenshot.png)
 
 
-![Dashboard_upload]()
+![Dashboard_upload](https://github.com/rahulgowda2003/Agriculture-Analysis-Report/blob/main/Rainfall%20Anaysis%20Screenshot.png)
 
 
 ![Dashboard_upload]()
