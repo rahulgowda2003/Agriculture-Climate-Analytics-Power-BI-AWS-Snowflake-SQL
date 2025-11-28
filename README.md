@@ -254,7 +254,7 @@ DIVIDE(AGRICULTURE[RAINFALL],3.5,BLANK())
 
 # Report Snapshot (power BI DEsktop)
 
-![Dashboard_upload]()
+![Dashboard_upload](https://github.com/rahulgowda2003/Agriculture-Analysis-Report/blob/main/Humidity%20Analysis%20Screenshot.png)
 
 
 ![Dashboard_upload]()
