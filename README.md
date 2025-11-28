@@ -252,7 +252,7 @@ DIVIDE(AGRICULTURE[RAINFALL],3.5,BLANK())
   - Average Yield by Location
 
 
-# Report Snapshot (power BI DEsktop)
+# Report Snapshot (power BI Desktop)
 
 ![Dashboard_upload](https://github.com/rahulgowda2003/Agriculture-Analysis-Report/blob/main/Humidity%20Analysis%20Screenshot.png)
 
